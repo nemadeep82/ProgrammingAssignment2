@@ -1,9 +1,9 @@
 ## File Name : cachematrix.R
 ## Version : 1.0
-## Date :
+## Date : 20-Sept-2015
 ## This R script provides functions to create a special matrix object which stores
 ## the cached value of its inverse. If caches value doesn't exist then it computes 
-#  it and cache it for future user.
+##  it and cache it for future user.
 
 ## This function creates a special type of matrix object which can cache it's 
 ## inverse value.This matrix object also provides multiple functions which can be 
